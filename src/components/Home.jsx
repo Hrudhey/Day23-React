@@ -1,7 +1,7 @@
 import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow } from '@mui/material'
 import React from 'react'
 const data = [
-        {"NAME":"Palmer","Course":"BTECH","Place":"London","Address":"Address1"},
+        {"NAME":"Laura","Course":"BTECH","Place":"London","Address":"Address1"},
         {"NAME":"Jennings","Course":"BA","Place":"Pattom","Address":"Address2"},
         {"NAME":"Marcus","Course":"BTECH","Place":"Nalanchira","Address":"Address3"}
   ];
@@ -12,7 +12,7 @@ const Home = () => {
     <h2></h2>
     <TableContainer>
         
-     <Table sx={{ minWidth: 350 }} style={{width:'400px',border:'1px solid black',position:'relative',left:'500px',marginTop:'40px'}} aria-label="simple table">
+     <Table sx={{ minWidth: 350 }} style={{width:'300px',border:'1px solid black',position:'relative',left:'500px',marginTop:'40px'}} aria-label="simple table">
         <TableHead>
      <TableRow>
         <TableCell>Name</TableCell>
