@@ -3,7 +3,7 @@ import React from 'react'
 const data = [
         {"NAME":"Palmer","Course":"BTECH","Place":"London","Address":"Address1"},
         {"NAME":"Jennings","Course":"BA","Place":"Pattom","Address":"Address2"},
-        {"NAME":"Karius","Course":"BTECH","Place":"Palayam","Address":"Address3"}
+        {"NAME":"Jacksin","Course":"BTECH","Place":"Palayam","Address":"Address3"}
   ];
 
 const Home = () => {
