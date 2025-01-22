@@ -1,9 +1,9 @@
 import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow } from '@mui/material'
 import React from 'react'
 const data = [
-        {"NAME":"Antony","Course":"BTECH","Place":"Jungle","Address":"Address1"},
-        {"NAME":"Mudryk","Course":"BA","Place":"Kollam","Address":"Address2"},
-        {"NAME":"Jackson","Course":"BTECH","Place":"Palakkad","Address":"Address3"}
+        {"NAME":"Palmer","Course":"BTECH","Place":"London","Address":"Address1"},
+        {"NAME":"Jennings","Course":"BA","Place":"Pattom","Address":"Address2"},
+        {"NAME":"Karius","Course":"BTECH","Place":"Palayam","Address":"Address3"}
   ];
 
 const Home = () => {
