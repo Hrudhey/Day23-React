@@ -21,8 +21,8 @@ const Navbar = () => {
             React Application
           </Typography>
           <Link to={'/'}><Button color="inherit" style={{color:'white'}}>Home</Button></Link>
-          <Link to={'/login'}><Button color="inherit" style={{color:'white'}}>Login</Button></Link>
-          <Link to={'/register'}><Button color="inherit" style={{color:'white'}}>Register</Button></Link>
+          <Link to={'/login'}><Button color="inherit" style={{color:'white'}}>Signin</Button></Link>
+          <Link to={'/register'}><Button color="inherit" style={{color:'white'}}>SignUp</Button></Link>
 
           
         </Toolbar>
